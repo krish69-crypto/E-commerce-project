@@ -1,0 +1,122 @@
+﻿@{
+    var account = Context.Session.GetInt32("Id");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - logincatalogue</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/logincatalogue.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        @if (account !=null)
+            {
+                
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom shadow-sm mb-3"
+             style="background: linear-gradient(90deg, #0f172a, #312e81);">
+
+            <div class="container-fluid">
+
+                <!-- Brand -->
+                <a class="navbar-brand fw-bold"
+                   asp-area=""
+                   asp-controller="Home"
+                   asp-action="Index">
+
+
+
+                    <i class="bi bi-shield-lock-fill me-2"></i>
+                    logincatalogue
+                </a>
+
+                <!-- Mobile Toggle -->
+                <button class="navbar-toggler"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#mainNavbar"
+                        aria-controls="mainNavbar"
+                        aria-expanded="false"
+                        aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Navbar Links -->
+                <div class="navbar-collapse collapse"
+                     id="mainNavbar">
+
+                    <ul class="navbar-nav me-auto">
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white"
+                               asp-area=""
+                               asp-controller="Home"
+                               asp-action="Index">
+                                <i class="bi bi-house-door me-1"></i>
+                                Home
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white"
+                               asp-area=""
+                               asp-controller="Home"
+                               asp-action="Privacy">
+                                <i class="bi bi-shield-check me-1"></i>
+                                Privacy
+                            </a>
+                        </li>
+
+                    </ul>
+
+                    <!-- Welcome and Logout Buttons -->
+                    <div class="d-flex flex-column flex-sm-row gap-2 mt-3 mt-sm-0">
+
+                        <a asp-controller="Account"
+                           asp-action="Welcome"
+                           class="btn btn-success btn-sm px-3">
+                            <i class="bi bi-person-circle me-1"></i>
+                            Welcome
+                        </a>
+
+                        <form asp-controller="Account"
+                              asp-action="Logout"
+                              method="post"
+                              class="m-0">
+
+                            @Html.AntiForgeryToken()
+
+                            <button type="submit"
+                                    class="btn btn-danger btn-sm px-3 w-100">
+                                <i class="bi bi-box-arrow-right me-1"></i>
+                                Logout
+                            </button>
+
+                        </form>
+
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+            
+        }
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

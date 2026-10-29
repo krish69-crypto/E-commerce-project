@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\models\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\models\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|c:\\users\\lenovo\\desktop\\logincatalogue\\logincatalogue\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CCC7D7-184F-CAAF-3861-C06BB4D717BC}|logincatalogue\\logincatalogue.csproj|solutionrelative:logincatalogue\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "logincatalogue\\Models\\ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "logincatalogue\\Models\\ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:53:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "logincatalogue\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "logincatalogue\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwIYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:11:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "changepassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Account\\changepassword.cshtml",
+              "RelativeDocumentMoniker": "logincatalogue\\Views\\Account\\changepassword.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Account\\changepassword.cshtml",
+              "RelativeToolTip": "logincatalogue\\Views\\Account\\changepassword.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T07:58:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "logincatalogue\\Models\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "logincatalogue\\Models\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:33:58.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ResetPasswordviewModel.cs",
+              "RelativeDocumentMoniker": "logincatalogue\\Models\\ResetPasswordviewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\ResetPasswordviewModel.cs",
+              "RelativeToolTip": "logincatalogue\\Models\\ResetPasswordviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:40:49.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "logincatalogue\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "logincatalogue\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAGQBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T08:11:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "account.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\account.cs",
+              "RelativeDocumentMoniker": "logincatalogue\\Models\\account.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Models\\account.cs",
+              "RelativeToolTip": "logincatalogue\\Models\\account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:13:38.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "logincatalogue\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\logincatalogue\\logincatalogue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "logincatalogue\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T08:51:05.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 4,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
